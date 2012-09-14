@@ -65,5 +65,4 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/infuse4g/proprietary/vendor/lib/libusc.so:system/vendor/lib/libusc.so \
     vendor/samsung/infuse4g/proprietary/bin/charging_mode:system/bin/charging_mode \
     vendor/samsung/infuse4g/proprietary/bin/playlpm:system/bin/playlpm \
-    vendor/samsung/infuse4g/proprietary/app/ch.smalltech.ledflashlight.free-1.apk:system/app/ch.smalltech.ledflashlight.free-1.apk \
     vendor/samsung/infuse4g/proprietary/lib/libQmageDecoder.so:system/lib/libQmageDecoder.so 
