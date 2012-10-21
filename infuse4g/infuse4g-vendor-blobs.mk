@@ -89,4 +89,5 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/infuse4g/proprietary/media/bootsamsungloop.qmg:system/media/bootsamsungloop.qmg \
     vendor/samsung/infuse4g/proprietary/media/bootsamsung.qmg:system/media/bootsamsung.qmg \
     vendor/samsung/infuse4g/proprietary/media/chargingwarning.qmg:system/media/chargingwarning.qmg \
-    vendor/samsung/infuse4g/proprietary/media/Disconnected.qmg:system/media/Disconnected.qmg
+    vendor/samsung/infuse4g/proprietary/media/Disconnected.qmg:system/media/Disconnected.qmg \
+    vendor/samsung/infuse4g/proprietary/prebuilt/apk/GooManager.apk:system/app/GooManager.apk
