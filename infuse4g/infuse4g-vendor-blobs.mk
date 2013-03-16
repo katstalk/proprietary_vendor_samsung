@@ -61,12 +61,4 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/infuse4g/proprietary/vendor/lib/libPVRScopeServices.so:system/vendor/lib/libPVRScopeServices.so \
     vendor/samsung/infuse4g/proprietary/vendor/lib/libsrv_init.so:system/vendor/lib/libsrv_init.so \
     vendor/samsung/infuse4g/proprietary/vendor/lib/libsrv_um.so:system/vendor/lib/libsrv_um.so \
-    vendor/samsung/infuse4g/proprietary/vendor/lib/libusc.so:system/vendor/lib/libusc.so \
-    vendor/samsung/infuse4g/proprietary/prebuilt/apk/GooManager.apk:system/app/GooManager.apk
-
-# Tweaks
-PRODUCT_COPY_FILES += \
-    vendor/samsung/common/tweak/seeder/system/bin/seeder:system/bin/seeder \
-    vendor/samsung/common/tweak/seeder/system/etc/init.d/99Seeder:system/etc/init.d/99Seeder \
-    vendor/samsung/common/tweak/seeder/system/xbin/entro:system/xbin/entro \
-    vendor/samsung/common/tweak/seeder/system/xbin/rngd:system/xbin/rngd
+    vendor/samsung/infuse4g/proprietary/vendor/lib/libusc.so:system/vendor/lib/libusc.so
