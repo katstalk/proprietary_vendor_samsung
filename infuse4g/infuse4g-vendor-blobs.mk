@@ -49,7 +49,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/infuse4g/proprietary/vendor/lib/libtvoutservice.so:system/vendor/lib/libtvoutservice.so \
     vendor/samsung/infuse4g/proprietary/vendor/bin/tvoutserver:system/vendor/bin/tvoutserver \
     vendor/samsung/infuse4g/proprietary/vendor/bin/pvrsrvinit:system/vendor/bin/pvrsrvinit \
-    vendor/samsung/infuse4g/proprietary/lib/egl/libGLES_android.so:system/lib/egl/libGLES_android.so \
     vendor/samsung/infuse4g/proprietary/vendor/lib/egl/libEGL_POWERVR_SGX540_120.so:system/vendor/lib/egl/libEGL_POWERVR_SGX540_120.so \
     vendor/samsung/infuse4g/proprietary/vendor/lib/egl/libGLESv1_CM_POWERVR_SGX540_120.so:system/vendor/lib/egl/libGLESv1_CM_POWERVR_SGX540_120.so \
     vendor/samsung/infuse4g/proprietary/vendor/lib/egl/libGLESv2_POWERVR_SGX540_120.so:system/vendor/lib/egl/libGLESv2_POWERVR_SGX540_120.so \
