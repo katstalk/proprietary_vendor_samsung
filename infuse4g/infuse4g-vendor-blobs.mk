@@ -21,7 +21,7 @@ PRODUCT_COPY_FILES += \
 PRODUCT_COPY_FILES += \
     vendor/samsung/infuse4g/proprietary/vendor/firmware/bcm4330_mfg.bin:system/vendor/firmware/bcm4330_mfg.bin \
     vendor/samsung/infuse4g/proprietary/vendor/firmware/bcm4330_sta.bin:system/vendor/firmware/bcm4330_sta.bin \
-	vendor/samsung/infuse4g/proprietary/vendor/firmware/bcm4330_aps.bin:system/vendor/firmware/bcm4330_aps.bin \
+	vendor/samsung/infuse4g/proprietary/vendor/firmware/bcm4330_apsta.bin:system/vendor/firmware/bcm4330_apsta.bin \
     vendor/samsung/infuse4g/proprietary/bin/BCM4330B1_002.001.003.0043.0061.hcd:system/bin/BCM4330B1_002.001.003.0043.0061.hcd \
     vendor/samsung/infuse4g/proprietary/vendor/firmware/nvram_net.txt:system/vendor/firmware/nvram_net.txt \
     vendor/samsung/infuse4g/proprietary/vendor/firmware/melfas_touchkey.kcm.bin:system/vendor/firmware/melfas_touchkey.kcm.bin \
